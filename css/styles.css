@@ -1,0 +1,15 @@
+/* GERAL */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #242940;
+    color: #FFF;
+}
+
+.hide
